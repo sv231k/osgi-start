@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-03T05:39:03.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36 Edg/80.0.361.57" etag="0-qBmJehOyDDl2GOSk3i" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-03T05:46:14.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36 Edg/80.0.361.57" etag="N1mroTQ3Bq40J37WxM4o" version="12.7.9" type="github">
   <diagram id="fWJk0PM2tN3Tnw3MpeeP" name="Page-1">
-    <mxGraphModel dx="1422" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
             <mxPoint x="590" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="atq1IVaOD67y55b1JIkv-12" value="&lt;h1&gt;Upgrade Propensity Data&lt;/h1&gt;&lt;p&gt;CTN&#39;s likely to upgrade.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="atq1IVaOD67y55b1JIkv-12" value="&lt;h1&gt;Upgrade Propensity Data&lt;/h1&gt;&lt;p&gt;CTN&#39;s likely to upgrade. Top 20%. Approx 3-4 million.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="247" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="atq1IVaOD67y55b1JIkv-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/calendar-128.png" vertex="1" parent="1">
@@ -87,6 +87,65 @@
         </mxCell>
         <mxCell id="atq1IVaOD67y55b1JIkv-22" value="&lt;h1&gt;DPL Jobs&lt;/h1&gt;&lt;p&gt;DPL will utilize the CTN numbers from ML output and invokes MRE and get the Upgrade eligibility data and store in DB.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1215" y="140" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="atq1IVaOD67y55b1JIkv-23" value="Upgrade&lt;br&gt;Options&lt;br&gt;Ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="atq1IVaOD67y55b1JIkv-24" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.502;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="atq1IVaOD67y55b1JIkv-26" target="atq1IVaOD67y55b1JIkv-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="550" as="sourcePoint" />
+            <mxPoint x="820" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="741" y="760" />
+              <mxPoint x="1060" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="atq1IVaOD67y55b1JIkv-25" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135" y="720" as="sourcePoint" />
+            <mxPoint x="1405" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="atq1IVaOD67y55b1JIkv-26" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="780" width="450" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="atq1IVaOD67y55b1JIkv-27" value="ATT" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="atq1IVaOD67y55b1JIkv-26">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="atq1IVaOD67y55b1JIkv-28" value="https://www.att.com/upgrade" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="atq1IVaOD67y55b1JIkv-26">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="atq1IVaOD67y55b1JIkv-29" value="Apple" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="atq1IVaOD67y55b1JIkv-26">
+          <mxGeometry x="60" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="atq1IVaOD67y55b1JIkv-30" value="CTN 1&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="atq1IVaOD67y55b1JIkv-26">
+          <mxGeometry x="170" y="150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="atq1IVaOD67y55b1JIkv-31" value="" style="endArrow=classic;html=1;strokeWidth=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.117;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="atq1IVaOD67y55b1JIkv-23" target="atq1IVaOD67y55b1JIkv-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="660" as="sourcePoint" />
+            <mxPoint x="870" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="660" />
+              <mxPoint x="850" y="391" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="atq1IVaOD67y55b1JIkv-32" value="First Check the DPL for Upgrade Eligibility" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="510" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="atq1IVaOD67y55b1JIkv-33" value="" style="endArrow=classic;html=1;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="atq1IVaOD67y55b1JIkv-23" target="atq1IVaOD67y55b1JIkv-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="630" as="sourcePoint" />
+            <mxPoint x="1330" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1310" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="atq1IVaOD67y55b1JIkv-34" value="If the data not present invoke MRE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="630" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
