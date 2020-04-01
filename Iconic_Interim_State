@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-01T14:19:34.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36 Edg/80.0.361.69" etag="G_nWtkfjp6XD_JgpBNnm" version="12.9.3" type="github">
+<mxfile host="www.draw.io" modified="2020-04-01T21:50:17.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36 Edg/80.0.361.69" etag="cpKP2YrpZwE-IyDdTreT" version="12.9.3" type="github" pages="2">
   <diagram id="VePfE8_qzIfSsCHO7kMn" name="Page-1">
     <mxGraphModel dx="1422" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -335,6 +335,110 @@
             <mxPoint x="716" y="1957" as="sourcePoint" />
             <mxPoint x="774" y="1903" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4tWVU-gUKUJ3aVPiKJOa" name="Page-2">
+    <mxGraphModel dx="1422" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-0" />
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-1" parent="m0T7zDz9CVSbf4eFHTaL-0" />
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="480" y="420" width="170" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-2" value="Author" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="260" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="225" y="190" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-8" value="ATG&lt;br&gt;Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="450" y="250" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-9" value="" style="endArrow=classic;html=1;" edge="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-10" value="&lt;h1&gt;BCC Workflow&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="290" y="130" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-11" value="Catalog&lt;br&gt;Jobs&lt;br&gt;ATG Component" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="590" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-12" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="m0T7zDz9CVSbf4eFHTaL-1" source="m0T7zDz9CVSbf4eFHTaL-11" target="m0T7zDz9CVSbf4eFHTaL-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="390" as="sourcePoint" />
+            <mxPoint x="570" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-14" value="NoSQL&lt;br&gt;Cassandra" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="610" y="115" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-15" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="m0T7zDz9CVSbf4eFHTaL-1" source="m0T7zDz9CVSbf4eFHTaL-11" target="m0T7zDz9CVSbf4eFHTaL-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="280" as="sourcePoint" />
+            <mxPoint x="660" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-16" value="CatalogJobsMs" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="222.5" y="630" width="105" height="63.07" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="m0T7zDz9CVSbf4eFHTaL-1" source="m0T7zDz9CVSbf4eFHTaL-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="535" as="sourcePoint" />
+            <mxPoint x="275" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-19" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="530" y="440" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-21" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.topic_2;rotation=-90;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="537.73" y="530" width="52.27" height="76.93" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-22" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.topic_2;rotation=-90;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="537.73" y="600" width="52.27" height="76.93" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-24" value="Kafka" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="510" y="390" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-25" value="CatalogJobsMs" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="225" y="430" width="115" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-26" value="NoSQL&lt;br&gt;Cassandra" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="250" y="530" width="65" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-27" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="m0T7zDz9CVSbf4eFHTaL-1" source="m0T7zDz9CVSbf4eFHTaL-25" target="m0T7zDz9CVSbf4eFHTaL-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="530" as="sourcePoint" />
+            <mxPoint x="283" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-28" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.13;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="m0T7zDz9CVSbf4eFHTaL-1" source="m0T7zDz9CVSbf4eFHTaL-25" target="m0T7zDz9CVSbf4eFHTaL-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="500" as="sourcePoint" />
+            <mxPoint x="420" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-29" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.73;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="m0T7zDz9CVSbf4eFHTaL-1" source="m0T7zDz9CVSbf4eFHTaL-16" target="m0T7zDz9CVSbf4eFHTaL-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="670" as="sourcePoint" />
+            <mxPoint x="400" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-30" value="" style="endArrow=none;html=1;" edge="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="380" as="sourcePoint" />
+            <mxPoint x="740" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-31" value="&lt;h1&gt;ATG Catalog Data Export&lt;/h1&gt;&lt;p&gt;&lt;b&gt;ATG Transalation&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1. ATG Translation Schedule job component will create JSON view ATG catalog item assets.&amp;nbsp;&lt;/p&gt;&lt;p&gt;2. Hashcode will be generated based on content. All the hascodes for ATG assets will be stored in separate schema.&lt;/p&gt;&lt;p&gt;3. JSON will be inserted for catalog update schema only if it&#39;s changed. This is achieved by comparing hashcode already stored for that asset.&lt;/p&gt;&lt;p&gt;4. To improve the speed multiple scheduler components can be created to focus for different ATG repository items.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;CatalogJobsMs&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1. Multiple instances will be used to read different type of assets that got modified.&lt;/p&gt;&lt;p&gt;2. CatalogJobsMs will post the the JSON assets to Kafka Topic.&lt;/p&gt;&lt;p&gt;3. Clients will consume the data only from Kafka topic. No Database will be shared.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Reconciliation&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1. CatalogJobsMs will have following APIs to support reconciliation and data validation.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - GET All Modified assets and hashcodes&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - GET Hashcode for asset id&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - GET Latest version of catalog&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - GET Asset by Id&lt;/p&gt;&lt;p&gt;2. CatalogJobsMs will also have REST endpoints to publish assets for emergency use.&lt;/p&gt;&lt;p&gt;- POST Asset JSON&lt;/p&gt;&lt;p&gt;- POST Assets to TOPIC&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="790" y="100" width="460" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="m0T7zDz9CVSbf4eFHTaL-32" value="Publish Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="m0T7zDz9CVSbf4eFHTaL-1">
+          <mxGeometry x="350" y="410" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
