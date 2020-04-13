@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-13T14:38:04.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 Edg/80.0.361.111" etag="LFIB-TyJaxW_pf0BBN9p" version="12.9.10" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-04-13T14:38:39.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 Edg/80.0.361.111" etag="pU4jdPZuC7dUdw8ugc9n" version="12.9.10" type="github" pages="7">
   <diagram id="VePfE8_qzIfSsCHO7kMn" name="Page-1">
     <mxGraphModel dx="1422" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -850,7 +850,7 @@
         <mxCell id="w8wRdHiiTzLACfhlqoYj-0" />
         <mxCell id="w8wRdHiiTzLACfhlqoYj-1" parent="w8wRdHiiTzLACfhlqoYj-0" />
         <mxCell id="w8wRdHiiTzLACfhlqoYj-2" value="&lt;h1&gt;ATG Catalog Data Export&lt;/h1&gt;&lt;p&gt;&lt;b&gt;ATG Transalation&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1. ATG Translation Schedule job component will create JSON view ATG catalog item assets.&amp;nbsp;&lt;/p&gt;&lt;p&gt;2. Hashcode will be generated based on content. All the hascodes for ATG assets will be stored in separate schema.&lt;/p&gt;&lt;p&gt;3. JSON will be inserted for catalog update schema only if it&#39;s changed. This is achieved by comparing hashcode already stored for that asset.&lt;/p&gt;&lt;p&gt;4. To improve the speed multiple scheduler components can be created to focus for different ATG repository items.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Kafka&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Schedule Job will publish all the assets to topic associated with product data types.&lt;/p&gt;&lt;p&gt;It will also publish summary of what got modified in separate topic. It will be used by CT import tool for reconciliation.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;REST API&lt;/b&gt;&lt;/p&gt;&lt;p&gt;ATG REST API will be developed to accept to push any product type to Kafka.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;BCC Workflow Assets&lt;/b&gt;&lt;/p&gt;&lt;p&gt;1. Catalog team will perform POC to get all modified assets from BCC workflow. BCC is stuck with ATG version 9.2. New developments adds risk to BCC.&lt;/p&gt;&lt;p&gt;2. If the POC is not successful full table scan required to identify assets got modified.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="w8wRdHiiTzLACfhlqoYj-1">
-          <mxGeometry x="310" y="40" width="460" height="660" as="geometry" />
+          <mxGeometry x="310" y="40" width="460" height="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
