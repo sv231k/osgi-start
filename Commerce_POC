@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-12T19:35:30.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="jFT-NiAUPHKxeve9Le9R" version="13.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-12T22:30:18.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="C-0wKhr2U-Oz9k4XA7de" version="13.1.1" type="github" pages="2">
   <diagram id="vsDOQ90_mvyi3yExEEz1" name="Page-1">
     <mxGraphModel dx="1822" dy="939" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -124,19 +124,19 @@
       <root>
         <mxCell id="OBAVjBL7mDFERh8Gddga-0" />
         <mxCell id="OBAVjBL7mDFERh8Gddga-1" parent="OBAVjBL7mDFERh8Gddga-0" />
-        <mxCell id="OBAVjBL7mDFERh8Gddga-3" value="Product&lt;br&gt;Configuration&lt;br&gt;SPA" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="OBAVjBL7mDFERh8Gddga-1">
+        <mxCell id="OBAVjBL7mDFERh8Gddga-3" value="Product&lt;br&gt;Configuration&lt;br&gt;SPA" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="OBAVjBL7mDFERh8Gddga-1">
           <mxGeometry x="290" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OBAVjBL7mDFERh8Gddga-4" value="Cart SPA" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="OBAVjBL7mDFERh8Gddga-1">
+        <mxCell id="OBAVjBL7mDFERh8Gddga-4" value="Cart SPA" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="OBAVjBL7mDFERh8Gddga-1">
           <mxGeometry x="530" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OBAVjBL7mDFERh8Gddga-5" value="IDSE&lt;br&gt;Checkout" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="OBAVjBL7mDFERh8Gddga-1">
           <mxGeometry x="780" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OBAVjBL7mDFERh8Gddga-6" value="product-&lt;br&gt;orchestration" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="OBAVjBL7mDFERh8Gddga-1">
+        <mxCell id="OBAVjBL7mDFERh8Gddga-6" value="product-&lt;br&gt;orchestration" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="OBAVjBL7mDFERh8Gddga-1">
           <mxGeometry x="305" y="420" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OBAVjBL7mDFERh8Gddga-8" value="cart-&lt;br&gt;orchestration" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="OBAVjBL7mDFERh8Gddga-1">
+        <mxCell id="OBAVjBL7mDFERh8Gddga-8" value="cart-&lt;br&gt;orchestration" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="OBAVjBL7mDFERh8Gddga-1">
           <mxGeometry x="545" y="420" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OBAVjBL7mDFERh8Gddga-9" value="CPOP&lt;br&gt;Products&lt;br&gt;Ms" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="OBAVjBL7mDFERh8Gddga-1">
