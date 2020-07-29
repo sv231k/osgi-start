@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-29T20:49:37.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 Edg/84.0.522.44" etag="PVV-_M2hwCsgHNfb4uzN" version="13.4.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-07-29T20:50:39.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 Edg/84.0.522.44" etag="HyiDkTa13PrDuEqW8FAE" version="13.4.3" type="github" pages="3">
   <diagram id="-b_ouJ45pqM6rUxU9zAX" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -644,9 +644,6 @@
         </mxCell>
         <mxCell id="4K3de3YBNBxjy7pDgvA1-88" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;IDSE Logical view with Orchestration Services&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4K3de3YBNBxjy7pDgvA1-1">
           <mxGeometry x="330" y="70" width="850" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4K3de3YBNBxjy7pDgvA1-89" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Front End&lt;br&gt;&lt;/b&gt;&lt;/span&gt;CSR/SSR/Static Assets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4K3de3YBNBxjy7pDgvA1-1">
-          <mxGeometry x="165" y="505.25" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4K3de3YBNBxjy7pDgvA1-90" value="OCE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="4K3de3YBNBxjy7pDgvA1-1">
           <mxGeometry x="857.5" y="1280" width="80" height="70" as="geometry" />
