@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-08-06T20:49:20.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="oHfLAFziPvQyJh9PDLXm" version="13.6.0" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-08-06T20:50:58.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="6pzR4D05pOSuqaYZO2_j" version="13.6.0" type="github" pages="3">
   <diagram id="9JsVF1Auakn79N2M9zxc" name="IDP-MDS">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1013,8 +1013,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fISXZTGmswbepzlq9sB7-94" value="&lt;b&gt;&lt;font style=&quot;font-size: 29px&quot;&gt;Wireless Upgrade Flow - IDP MDS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fISXZTGmswbepzlq9sB7-1">
-          <mxGeometry x="1010" y="350" width="480" height="20" as="geometry" />
+        <mxCell id="fISXZTGmswbepzlq9sB7-94" value="&lt;b&gt;&lt;font style=&quot;font-size: 29px&quot;&gt;Wireless Upgrade Flow - IDP-STC-CPOP&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fISXZTGmswbepzlq9sB7-1">
+          <mxGeometry x="850" y="350" width="680" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1481,8 +1481,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1-jnKWQjM62ed_KuioFi-88" value="&lt;b&gt;&lt;font style=&quot;font-size: 29px&quot;&gt;Wireless Upgrade Flow - IDP MDS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1-jnKWQjM62ed_KuioFi-1">
-          <mxGeometry x="1010" y="350" width="480" height="20" as="geometry" />
+        <mxCell id="1-jnKWQjM62ed_KuioFi-88" value="&lt;b&gt;&lt;font style=&quot;font-size: 29px&quot;&gt;Wireless Upgrade Flow - IDP-STC-CPOP-CG&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1-jnKWQjM62ed_KuioFi-1">
+          <mxGeometry x="880" y="350" width="610" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
