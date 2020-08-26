@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-08-26T01:25:46.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="M09V8rpfvrAPLPPWMjWA" version="13.6.5" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-08-26T16:42:05.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.522.63" etag="J51dx3S1Tb9Owc8Ao-5f" version="13.6.5" type="github" pages="6">
   <diagram id="-b_ouJ45pqM6rUxU9zAX" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -2434,6 +2434,15 @@
             <Array as="points">
               <mxPoint x="278" y="672" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="txueaX1Gmg7I6cHEpf1h-14" value="Risk&lt;br&gt;Assessment" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="d8CJ8cDEJWdfPAET6lUB-1">
+          <mxGeometry x="1542" y="453" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="txueaX1Gmg7I6cHEpf1h-15" value="" style="endArrow=classic;html=1;exitX=0.798;exitY=0.086;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="d8CJ8cDEJWdfPAET6lUB-1" source="d8CJ8cDEJWdfPAET6lUB-45" target="txueaX1Gmg7I6cHEpf1h-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1519" y="521" as="sourcePoint" />
+            <mxPoint x="1569" y="471" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
