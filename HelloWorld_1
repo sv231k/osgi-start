@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T22:16:05.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" version="14.2.9" etag="n-0j_2DgIy-v7lqZ7J3f" type="github"><diagram id="ZelYM4M-6XN_2dBD_tay">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-05T16:10:14.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="b3gFqKIk3bnCU5GCSXS6" version="14.2.9" type="github">
+  <diagram id="ZelYM4M-6XN_2dBD_tay" name="Page-1">
+    <mxGraphModel dx="1422" dy="714" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="250" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-7" value="Web Sales Orchestration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-8" value="PLP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="265" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-9" value="&lt;ol&gt;&lt;li&gt;Exportable Pre Screen UI Component&lt;/li&gt;&lt;li&gt;UI Filtering&lt;/li&gt;&lt;li&gt;Invoke backend APIs for personalized results&lt;/li&gt;&lt;li&gt;Mapping latest price info to device tiles.&lt;/li&gt;&lt;li&gt;Session Storage Entity&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="250" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-11" value="Gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-12" value="Web Sales / BuyFlow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-14" value="Checkout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-15" value="&lt;ol&gt;&lt;li&gt;PreScreen API and Catalog products API integration&lt;/li&gt;&lt;li&gt;Gateway Integration&lt;/li&gt;&lt;li&gt;For Prescreen invoke backend API for latest offers from PDP Page.&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="330" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="710" y="180" width="250" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-17" value="Checkout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="770" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-18" value="Sales Product Orchestration (Catalog)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="760" y="150" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-20" value="&lt;ol&gt;&lt;li&gt;Apply Guidance matrix based on cart context and pricing data.&lt;/li&gt;&lt;li&gt;Apply guidance matrix in CPOP pricing engine. (Cart/PL/PD)&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="725" y="310" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-21" value="ServiceAvailability&lt;br&gt;(Address validation)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="980" y="180" width="250" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-23" value="Web Sales / BuyFlow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1040" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-24" value="Cart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1015" y="150" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-25" value="&lt;ol&gt;&lt;li&gt;Ignore prescreen context for checkout policy repricing.&lt;/li&gt;&lt;li&gt;Extract policy and send it to Wireless Order and PricingMs (STC)&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="995" y="310" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1260" y="180" width="250" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-27" value="CSI&lt;br&gt;(Credit Policy)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1320" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-28" value="Checkout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1295" y="150" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-29" value="&lt;ol&gt;&lt;li&gt;Create new APIs for prescreen policy and caching data.&lt;/li&gt;&lt;li&gt;Pre populate data from pre screen info.&lt;/li&gt;&lt;li&gt;Skip credit check API for pre screen.&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1275" y="310" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6ADJBX6YhmLwn_H-RWo4-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;Teams Dependency and High Level Summary&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="55" width="527" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
